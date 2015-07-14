@@ -28,6 +28,10 @@ body {
     font-family: 'Titillium Web', sans-serif;
 }
 
+p {
+    font-size: 15px;
+}
+
 .headline {
     padding: 120px 0;
 }
