@@ -32,6 +32,16 @@ p {
     font-size: 17px;
 }
 
+.bulletpt {
+    padding: 0 10px;
+    font-family: Arial, sans-serif;
+}
+
+.asset-link {
+    font-size: 15px;
+    color: #A44584;
+}
+
 .headline {
     padding: 120px 0;
 }
